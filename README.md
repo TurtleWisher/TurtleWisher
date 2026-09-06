@@ -138,11 +138,22 @@ I'm continuously building and experimenting with projects across:
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TurtleWisher&show_icons=true&theme=transparent&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=888888" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TurtleWisher&layout=compact&theme=transparent&hide_border=true&title_color=8B5CF6&text_color=888888" height="170">
+
+<a href="https://github.com/TurtleWisher">
+  <img src="https://img.shields.io/github/followers/TurtleWisher?label=Followers&style=for-the-badge" alt="GitHub Followers">
+</a>
+
+<a href="https://github.com/TurtleWisher?tab=repositories">
+  <img src="https://img.shields.io/github/repositories/TurtleWisher?label=Repositories&style=for-the-badge" alt="Repositories">
+</a>
+
+<a href="https://github.com/TurtleWisher?tab=stars">
+  <img src="https://img.shields.io/github/stars/TurtleWisher?affiliations=OWNER&style=for-the-badge" alt="GitHub Stars">
+</a>
+
 </p>
 
 ---
@@ -150,17 +161,23 @@ I'm continuously building and experimenting with projects across:
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TurtleWisher&theme=transparent&hide_border=true&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com?user=TurtleWisher&theme=transparent&hide_border=true"
+       alt="GitHub Contribution Streak">
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TurtleWisher&bg_color=00000000&color=888888&line=8B5CF6&point=8B5CF6&area=true&hide_border=true" alt="Contribution Graph">
-</p>
+  <a href="https://github.com/TurtleWisher">
+    <img src="https://img.shields.io/github/commit-activity/y/TurtleWisher?style=for-the-badge&label=Commits%20This%20Year" alt="Commits">
+  </a>
 
+  <a href="https://github.com/TurtleWisher">
+    <img src="https://img.shields.io/github/last-commit/TurtleWisher/TurtleWisher?style=for-the-badge&label=Last%20Profile%20Update" alt="Last Commit">
+  </a>
+</p>
 ---
 
 ## 🧠 Currently Learning
@@ -198,38 +215,6 @@ I'm continuously building and experimenting with projects across:
 🧠 Problem Solving &nbsp; • &nbsp;
 💡 Creative Technology
 
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api?username=TurtleWisher&show_icons=true&hide_border=true&theme=transparent"
-       alt="GitHub Statistics">
-
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=TurtleWisher&layout=compact&hide_border=true&theme=transparent"
-       alt="Top Languages">
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=TurtleWisher&theme=transparent&hide_border=true"
-       alt="GitHub Contribution Streak">
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TurtleWisher&bg_color=00000000&color=888888&line=8B5CF6&point=8B5CF6&area=true&hide_border=true"
-       alt="Contribution Graph">
 </p>
 
 ---
